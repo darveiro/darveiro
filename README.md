@@ -2,11 +2,10 @@
 - 👀 I’m interested in HTML, CSS AND JAVASCRIPT
 - 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on JAVASCRIPT AND PYTHON
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...Just here for now
 
-- Atualizando - Aluno Guilherme Dias
+
+
 
 <!---
 darveiro/darveiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
